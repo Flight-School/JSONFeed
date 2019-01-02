@@ -1,0 +1,4 @@
+language: objective-c
+xcode_project: JSONFeed.xcodeproj
+xcode_scheme: JSONFeed
+xcode_destination: platform=macOs
