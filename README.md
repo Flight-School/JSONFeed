@@ -1,5 +1,7 @@
 # JSONFeed
 
+![Build Status](https://api.travis-ci.com/Flight-School/JSONFeed.svg?branch=master)
+
 A Swift encoder and decoder for the [JSON Feed](https://jsonfeed.org) format.
 
 ## Usage
