@@ -1,6 +1,7 @@
 import XCTest
 @testable import JSONFeed
 
+@available(OSX 10.12, iOS 10.0, watchOS 3.0, tvOS 10.0, *)
 final class JSONFeedTests: XCTestCase {
     var decoder: JSONDecoder!
     
