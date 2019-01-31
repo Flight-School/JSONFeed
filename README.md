@@ -1,6 +1,6 @@
 # JSONFeed
 
-![Build Status](https://api.travis-ci.com/Flight-School/JSONFeed.svg?branch=master)
+[![Build Status][build status badge]][build status]
 
 A Swift encoder and decoder for the [JSON Feed](https://jsonfeed.org) format.
 
@@ -29,3 +29,6 @@ MIT
 ## Contact
 
 Mattt ([@mattt](https://twitter.com/mattt))
+
+[build status]: https://travis-ci.org/Flight-School/JSONFeed
+[build status badge]: https://api.travis-ci.com/Flight-School/JSONFeed.svg?branch=master
